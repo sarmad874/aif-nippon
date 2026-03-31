@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/aif-nippon/:/",
+    "/content/aif-nippon/configuration:/.helix/config.json",
+    "/content/aif-nippon/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/aif-nippon/"
   ]
 }
